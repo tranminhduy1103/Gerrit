@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9b4ab913_6d933f09",
+        "filename": "README",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1021678
+      },
+      "writtenOn": "2023-07-18T02:47:44Z",
+      "side": 1,
+      "message": "it\u0027s okay",
+      "range": {
+        "startLine": 1,
+        "startChar": 6,
+        "endLine": 1,
+        "endChar": 10
+      },
+      "revId": "4d92832dce6e37f7d031f58cac76abd6cb279ea1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
